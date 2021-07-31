@@ -35,7 +35,7 @@ website:   	http://www.themepunch.com
 	border-width:0;
 	color:#fff;
 	font-family:Arial;
-	font-size:20px;
+	font-size:35px !important;
 	font-weight:700;
 	line-height:20px;
 	margin:0;
@@ -931,12 +931,13 @@ website:   	http://www.themepunch.com
 	border-width:0;
 	color:#fff;
 	font-family:Roboto;
-	font-size:20px;
+	font-size:20px !important;
 	font-style:normal;
 	font-weight:300;
 	letter-spacing:3px;
 	line-height:30px;
 	padding:0;
+    margin-bottom: 10px !important;
 	text-decoration:none;
 }
 
